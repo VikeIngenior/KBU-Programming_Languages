@@ -1,0 +1,3 @@
+12        erencan      bilgisayar
+13        ilyas        bilgisayar
+14        ensar        mekatronik
